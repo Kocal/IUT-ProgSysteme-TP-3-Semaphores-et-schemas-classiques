@@ -1,4 +1,3 @@
-# Prog-systeme-TP3-Semaphores-et-schemas-classiques
-TP n°3 en Programmation Système, à l'IUT : Sémaphores et Schémas classiques.
+# [Prog. Système] C++ : Sémahores
 
-Exemple d'utilisation des semaphores en C++.
+TP n°3 en Programmation Système, illustration de l'utilisation des semaphores en C++ sur un exemple de "Ping-Pong".
